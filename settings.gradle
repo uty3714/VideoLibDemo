@@ -1,0 +1,3 @@
+include ':xzVideo'
+include ':app'
+rootProject.name = "VideoLibDemo"
